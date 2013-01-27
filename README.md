@@ -7,7 +7,7 @@ A consistent hashing scheduling module for <a href="http://www.linuxvirtualserve
 
 In our case, we need to support stickiness for multiple directors in LVS, so the consistent-hashing solution is a nice choice to meet our requirement.
 
-How to comipile:
+How to compile:
 ----------------
 
 	a, install gcc kernel-headers kernel-devel(yum or apt-get)
